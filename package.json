@@ -2,6 +2,9 @@
   "name": "count-to",
   "version": "0.1.0",
   "private": false,
+  "author": "wyc <chaoqfsd@163.com>",
+  "description": "It's a vue component that will count to a target number at a specified duration",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
