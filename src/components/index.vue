@@ -2,6 +2,14 @@
   <span>{{ textNumber }}</span>
 </template>
 <script lang="ts">
+// https://blog.csdn.net/sushauai/article/details/52958162
+// https://github.com/PanJiaChen/vue-countTo
+// https://juejin.cn/post/6844903709189603335
+// https://segmentfault.com/a/1190000021737705
+// http://panjiachen.github.io/countTo/demo/
+// https://github.com/newcaoguo/EasyRollingNumber
+// https://github.com/Chef5/jQuery.rollNumber
+// https://juejin.cn/post/7041700222111596580
 import { defineComponent, ref, toRefs } from "vue";
 
 export default defineComponent({
